@@ -29,11 +29,11 @@ In conclusion, Python's versatility, rich ecosystem, ease of learning, community
 ## Python Libraries for Data Analysis
 Python is a simple programming language to learn, and there is some basic stuff that you can do with it, like adding, printing statements, and so on. However, if you want to perform data analysis, you need to import specific libraries. Some examples include:
 
-- Pandas - Used for structured data operations
-- NumPy - A powerful library that helps you create n-dimensional arrays
-- SciPy - Provides scientific capabilities, like linear algebra and Fourier transform
-- Matplotlib - Primarily used for visualization purposes
-- Scikit-learn - Used to perform all machine learning activities
+- [pandas](http://pandas.pydata.org/) - Used for structured data operations
+- [NumPy](https://numpy.org/) - A powerful library that helps you create n-dimensional arrays
+- [SciPy](https://scipy.org/) - Provides scientific capabilities, like linear algebra and Fourier transform
+- [Matplotlib](https://matplotlib.org/) - Primarily used for visualization purposes
+- [Scikit-learn](https://scikit-learn.org/stable/) - Used to perform all machine learning activities
 
 In addition to these, there are other libraries as well, like:
 
